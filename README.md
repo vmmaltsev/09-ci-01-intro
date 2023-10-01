@@ -31,3 +31,8 @@ Done -> Closed, Open.
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_37.png)
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_38.png)
+
+
+https://github.com/vmmaltsev/09-ci-01-intro/blob/main/develop.xml
+
+https://github.com/vmmaltsev/09-ci-01-intro/blob/main/bug.xml
